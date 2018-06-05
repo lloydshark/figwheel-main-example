@@ -1,0 +1,3 @@
+{:deps {com.bhauman/figwheel-main       {:mvn/version "0.1.0-SNAPSHOT"}
+        com.bhauman/rebel-readline-cljs {:mvn/version "0.1.3"}}
+ :paths ["src" "target" "resources"]}
